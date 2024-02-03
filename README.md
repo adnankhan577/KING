@@ -41,8 +41,8 @@
 git clone https://github.com/adnankhan577/KING && cd KING && python BACK.py
 ```
 
-<img src="https://github.com/adnankhan577/KING/blob/main/Screenshot_20240120-214739_Termux.jpg" />
-<img src="https://github.com/adnankhan577/KING/blob/main/Screenshot_20240120-212908_Termux.jpg" />
+<img src="https://github.com/adnankhan577/KING/blob/main/IMG-20240118-WA0054(1).jpg" />
+<img src="https://github.com/adnankhan577/KING/blob/main/IMG-20240120-WA0066.jpg" />
 
 ## Find Me on :
  
